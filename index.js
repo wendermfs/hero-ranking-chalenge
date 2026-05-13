@@ -6,6 +6,7 @@ pokemon.forEach(pokemon => {
     const currentRanking = levelRank.find(rank => pokemon.xp >= rank.lessXP && pokemon.xp <= rank.maxXp);
 
     if (currentRanking) {
-        (`This Pókemon **${pokemon.name}** is at the level of **${currentRanking.level}**`);
+        console.log
+        (`The Pokémon called **${pokemon.name}** is at the level of **${currentRanking.level}**`);
     }
 });
