@@ -1,0 +1,1 @@
+const pokemon = ["Bulbasaur", "Ivysaur ", "Venusaur", "Charmander", "Charmeleon", "Charizard", ]
