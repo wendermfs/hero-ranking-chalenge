@@ -69,7 +69,7 @@ HeroRankingChallenge/
 │
 ├── index.js
 ├── README.md
-└── .gitignore
+└── Entendendo o Desafio Hero Ranking Challenge.pdf
 ```
 
 ---
@@ -159,7 +159,7 @@ HeroRankingChallenge/
 │
 ├── index.js
 ├── README.md
-└── .gitignore
+└── Entendendo o Desafio Hero Ranking Challenge.pdf
 ```
 
 ---
